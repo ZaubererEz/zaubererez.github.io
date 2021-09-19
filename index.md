@@ -1,3 +1,5 @@
+![zauberer.jpg](/images/zauberer.jpg)
+
 # ZaubererEz
 
 Welcome to the GitHub main page for ZaubererEz. Please feel free to navigate through the topics below. 
