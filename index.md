@@ -5,7 +5,7 @@ Welcome to the GitHub main page for ZaubererEz. Please feel free to navigate thr
 ### _W&M_
 
 Repository of material associated with William & Mary coursework. 
-
+[W&M Repo]( zaubererez.github.io/WM/index.md )
 
 ```markdown
 Syntax highlighted code block
