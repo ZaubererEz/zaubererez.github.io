@@ -2,9 +2,9 @@
 title: William & Mary
 description: W&M Repo
 ---
-[Back to ZaubererEz](/index.md)
+[Back to ZaubererEz](../index.md)
 
-# William & Mary
+# _William & Mary_
 
 ### Hello GitHub! 
 - [Hello GitHub! (html)]( HelloGitHub.html )
