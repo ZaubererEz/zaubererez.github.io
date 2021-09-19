@@ -1,10 +1,11 @@
 # ZaubererEz
 
-Welcome to the GitHub main page for ZaubererEz. Please feel free to navigate through the topics and projects below. 
+Welcome to the GitHub main page for ZaubererEz. Please feel free to navigate through the topics below. 
 
 ### _W&M_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Repository of material associated with William & Mary coursework. 
+
 
 ```markdown
 Syntax highlighted code block
