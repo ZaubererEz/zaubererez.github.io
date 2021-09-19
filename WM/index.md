@@ -2,7 +2,7 @@
 title: William & Mary
 description: W&M Repo
 ---
-[Back to ZaubererEz]( zaubererez.github.io )
+[Back to ZaubererEz](/index.md)
 
 # William & Mary
 
