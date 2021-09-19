@@ -1,8 +1,8 @@
-## ZaubererEz
+# ZaubererEz
 
 Welcome to the GitHub main page for ZaubererEz. Please feel free to navigate through the topics and projects below. 
 
-### W&M
+#### W&M
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
